@@ -2,20 +2,30 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using ApiProductos.Context;
+using ApiProductos.Models;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace ApiProductos.Controllers
 {
-    [Route("api/[controller]")]
-    public class ProductoController1 : Controller
+   
+    [Route("api/Producto")]
+    public class ProductoController : Controller
     {
+        private ApplicacionDbContext Context;
+
+        public ProductoController(ApplicacionDbContext context)
+        {
+            this.Context = context;
+        }
         // GET: api/<controller>
         [HttpGet]
-        public IEnumerable<string> Get()
+        public JsonResult Get()
         {
-            return new string[] { "value1", "value2" };
+            var datos = Context.Producto.ToList();
+            return Json(datos);
         }
 
         // GET api/<controller>/5

@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProducto\\ApiProductos\\ApiProductos\\ApiProductos.csproj",
+      "projectUniqueName": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProductos\\ApiProductos\\ApiProductos\\ApiProductos.csproj",
       "projectName": "ApiProductos",
-      "projectPath": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProducto\\ApiProductos\\ApiProductos\\ApiProductos.csproj",
+      "projectPath": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProductos\\ApiProductos\\ApiProductos\\ApiProductos.csproj",
       "packagesPath": "C:\\Users\\F2F\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProducto\\ApiProductos\\ApiProductos\\obj\\",
+      "outputPath": "C:\\Users\\F2F\\Desktop\\proyecto\\ApiProductos\\ApiProductos\\ApiProductos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

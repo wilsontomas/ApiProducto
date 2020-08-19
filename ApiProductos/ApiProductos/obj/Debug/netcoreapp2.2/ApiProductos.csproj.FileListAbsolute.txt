@@ -1,0 +1,14 @@
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\bin\Debug\netcoreapp2.2\ApiProductos.deps.json
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\bin\Debug\netcoreapp2.2\ApiProductos.runtimeconfig.json
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\bin\Debug\netcoreapp2.2\ApiProductos.runtimeconfig.dev.json
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\bin\Debug\netcoreapp2.2\ApiProductos.dll
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\bin\Debug\netcoreapp2.2\ApiProductos.pdb
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.csprojAssemblyReference.cache
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.csproj.CoreCompileInputs.cache
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.RazorAssemblyInfo.cache
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.RazorAssemblyInfo.cs
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.AssemblyInfoInputs.cache
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.AssemblyInfo.cs
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.RazorTargetAssemblyInfo.cache
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.dll
+C:\Users\F2F\Desktop\proyecto\ApiProductos\ApiProductos\ApiProductos\obj\Debug\netcoreapp2.2\ApiProductos.pdb
