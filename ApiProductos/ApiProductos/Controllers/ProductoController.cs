@@ -4,13 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using ApiProductos.Context;
 using ApiProductos.Models;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace ApiProductos.Controllers
 {
-   
+    [EnableCors("MyCorsPolicy")]
     [Route("api/Producto")]
     public class ProductoController : Controller
     {

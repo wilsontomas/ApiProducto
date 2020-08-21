@@ -29,6 +29,14 @@ namespace ApiProductos
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<ApplicacionDbContext>(Options => Options.UseSqlServer(Configuration.GetConnectionString("ConnectionString")));
+            services.AddCors(options =>
+            {
+                options.AddPolicy("MyCorsPolicy", builder => builder
+                    .AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowCredentials()
+                    .AllowAnyHeader());
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
